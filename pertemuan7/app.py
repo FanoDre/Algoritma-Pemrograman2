@@ -2,7 +2,7 @@ import os
 os.system('cls')
 # -----------------------------------------------
 print(54*"-")
-print(f"{'TUGAS PERTEMUAN 4':>35}")
+print(f"{'TUGAS PERTEMUAN 7':>35}")
 print(54*"-")
 # -----------------------------------------------
 
