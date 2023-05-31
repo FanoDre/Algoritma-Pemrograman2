@@ -32,7 +32,7 @@ class penentuanMK:
                 'pemrograman': 0,
                 'teknologi': 0,
                 'praktek': 1,
-                'teori': 1,
+                'teori': 0,
                 'minat_khusus': 1
             }
         }
