@@ -26,4 +26,4 @@ for nim, mahasiswa, nilai_akhir in data_mahasiswa_tertinggi:
 
 print("\nData Mahasiswa (Nilai Terendah):")
 for nim, mahasiswa, nilai_akhir in data_mahasiswa_terendah:
-    print(f"NIM: {nim}, Mahasiswa: {mahasiswa}, Nilai Akhir: {nilai_akhir}")
+    print(f"NIM: {nim}, Mahasiswa: {mahasiswa}, Nilai Akhir: {nilai_akhir}")
